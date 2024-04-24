@@ -10,7 +10,7 @@ A simple travel advising application in which users can view various hotels, res
 - React
 - HTML
 - CSS
-- Travel Advisor API
+- Material UI
 
 ![image](https://github.com/gerard415/inventory-management-application/assets/82114246/d5aa521b-19af-4e9c-adad-73c0b546ec67)
 ![image](https://github.com/gerard415/inventory-management-application/assets/82114246/163694d2-9b0a-4463-a403-33d1c7cbf3d4)
